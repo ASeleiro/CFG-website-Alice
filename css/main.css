@@ -1,0 +1,121 @@
+/* remove margins from body */
+body{
+    margin: 0pt;
+}
+
+
+/* formatting lists */
+.removeList{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/* formatting nav bar */
+.end{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.inline{
+    display: inline;
+    padding: 10px;
+}
+
+
+/* formating intro */
+.marginLeft{
+    margin: 20px;
+}
+
+
+/* formating Allotment links*/
+.marginAllot{
+    margin: 25px;
+    padding: 0px;
+}
+
+
+.keyAllot{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 0px;
+}
+
+
+
+/* formating box*/
+.noPadding{
+    padding:0px;
+}
+
+.noMargin{
+    margin:0px;
+}
+
+.standardPadding{
+    padding: 20px;
+}
+
+.standardMargin{
+    margin: 20px;
+}
+
+
+
+/* changing colors of sections */
+.green{
+    background-color: seagreen;
+    color: white;
+}
+
+.brown{
+    background-color: rgb(238, 224, 207);
+}
+
+
+/* changing font size */
+p{
+    font-size: large;
+}
+
+li{
+    font-size: large;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h3{
+    font-size: large;
+    font-weight: bold;
+}
+
+
+/* responsive images: setting image width at 100% */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
